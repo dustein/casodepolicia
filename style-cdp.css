@@ -63,13 +63,6 @@ header {
     padding: 0.5rem;
 }
 
-.post-conteudo img {
-    max-width: 100%;
-    height: auto;
-    border-radius: 8px;
-    margin: 1.5rem 0;
-}
-
 /* Comentários */
 .comentarios-section {
     border-top: 1px solid #dee2e6;
@@ -122,6 +115,8 @@ footer {
   padding: 0.2rem;
   text-align: center;
 }
+
+
 /* Estilos para telas a partir de 768px */
 @media screen and (min-width: 768px) {
   main {
