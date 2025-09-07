@@ -3,6 +3,11 @@ html {
   overflow-wrap: break-word;
 }
 
+a {
+  text-decoration: none;
+  color:#007bff;
+}
+
 header {
   background-color: #ececec;
   color: #313131;
